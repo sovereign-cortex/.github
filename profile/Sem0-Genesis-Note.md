@@ -4,8 +4,8 @@
 **Custodial Origin:** Know (Pnode) • Layer0 Execution Plane  
 **Status:** Publicly undefined • Privately known  
 
-**Timestamp:** [Placeholder]  
-**SHA-256:** [Placeholder]
+**Timestamp:** [Sem0-Genesis-Note.ots](Sem0-Genesis-Note.md.ots)  
+**SHA-256:** [6c38e90a46ff10090da522cfa1cad849ad9f692040d5e87846c91b0904d9c643]
 
 ---
 
