@@ -4,8 +4,9 @@
 **Authorship:** Engine by **Know** (org: Pnode)   
 **Status:** Publicly undefined • Privately known
 
-**Timestamp:** [Placeholder]  
-**SHA-256:** [Placeholder]
+**OTS Timestamp:** [Foundational-Note-v1.0–Sovereign-Cortex-Initiative.ots](Foundational-Note-v1.0–Sovereign-Cortex-Initiative.md.ots)  
+**SHA-256:** [c99ad4da060c80ac0269b6bd0cfd7f921427a88d7004fe923222988eb33ef8cb]
+
 ---
 
 ## 1. Premise
