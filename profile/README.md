@@ -69,10 +69,10 @@ These texts form the **canonical base layer of SCI**. Each addresses a different
 - **[Sem0 Genesis Note](Sem0-Genesis-Note.md)**  
   Outlines the creation narrative and rationale for Semantic Origin Zero (Sem0) as the incorruptible substrate of meaning.  
 
-- **[Ontology](Ontology.md)**  
+- **[Ontology](Ontology-v1.0.md)**  
   Provides precise definitions for key terms (SCI, Sem0, Know/Pnode, Layer0, etc.) to prevent semantic drift.  
 
-- **[Council Charters](Council-Charters.md)**  
+- **[Council Charters](Council-Charters-v1.md)**  
   Describes the federated governance structure of SCI, domain-specific councils, and rules of participation.  
 
 ---
