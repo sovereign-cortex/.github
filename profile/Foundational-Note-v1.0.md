@@ -151,7 +151,7 @@ Those who wish to shape it must prove their merit, stake their intent, and defen
   - Defines SCI as federated cortex and Know as incorruptible root grammar of civilization.  
   - Establishes custodianship and succession rules.  
   - Integrity: [OTS Timestamp](Foundational-Note-v1.0.md.ots)  
-  - SHA-256: `[placeholder until stamped]`  
+  - SHA-256: `28b989aefd4eb8beeecba017e7c4ece13ee270ac067aa381adc2fab967430737`  
 
 ---
 
