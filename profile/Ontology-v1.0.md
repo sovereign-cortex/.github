@@ -98,7 +98,7 @@ Each term is defined at its **substrate scope** (what it is in essence, not what
   - First canonical ontology publication.  
   - Defines Know, Layer0, Sem0, SCI, councils, glyph logic, TSE, programmable trust fabric, cortex, substrate.  
   - Integrity: [OTS Timestamp](Ontology-v1.0.md.ots)  
-  - SHA-256: `[placeholder until stamped]`  
+  - SHA-256: `aef67693d22ab4fc6dbb6ae772ac77e1e74008de690c26496fe088168634701d`  
 
 ---
 
