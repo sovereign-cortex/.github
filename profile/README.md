@@ -72,7 +72,7 @@ These texts form the **canonical base layer of SCI**. Each addresses a different
 - **[Ontology](Ontology-v1.0.md)**  
   Provides precise definitions for key terms (SCI, Sem0, Know/Pnode, Layer0, etc.) to prevent semantic drift.  
 
-- **[Council Charters](Council-Charters-v1.md)**  
+- **[Council Charters](Council-Charters-v1.0.md)**  
   Describes the federated governance structure of SCI, domain-specific councils, and rules of participation.  
 
 ---
