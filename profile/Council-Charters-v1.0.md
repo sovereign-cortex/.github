@@ -123,7 +123,7 @@ SCI is sovereign not because of councils, but because of its architecture:
   - Defines universal rules for all councils.  
   - Establishes domain-specific charters for seven domains.  
   - Integrity: [OTS Timestamp](Council-Charters-v1.0.md.ots)  
-  - SHA-256: `[placeholder until stamped]`  
+  - SHA-256: `4d9d3b133c43c2d02ef7082a6bbe18a85d6310abffe925e2f2ad0bbc8c10e822`  
 
 ---
 
