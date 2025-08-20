@@ -176,7 +176,7 @@ And as in every age, it will be the builders of the substrate — not the rulers
 - Defines Sem0 as the zero point for incorruptible meaning.  
 - Establishes its relationship with Know/Layer0 and SCI.  
 - Integrity: [OTS Timestamp](Sem0-Genesis-Note.md.ots)  
-- SHA-256: `[Placeholder]`  
+- SHA-256: `ca9c20de27a24fbbc39f714109a7580680ab680673f99fe6fd3b5548964415fe`  
 
 ---
 
